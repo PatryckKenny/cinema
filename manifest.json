@@ -1,9 +1,0 @@
-{
-    "name": "Cinema",
-    "short_name": "Cine",
-    "theme_color": "#ffffff",
-    "background_color": "#000000",
-    "display": "standalone",
-    "scope": "/index.html",
-    "start_url": "/"
-}
