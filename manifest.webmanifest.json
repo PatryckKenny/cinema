@@ -1,0 +1,21 @@
+{
+    "shot_name":"cinema",
+    "name": "cinema",
+    "start_url": ".",
+    "display": "standalone",
+    "thema_color": "#ffffff",
+    "thema-color": "#ffffff",
+    "background_color":"#000000",
+    "background-color":"#000000",
+    "description": "my site description",
+    "icons": [
+    {
+        "src": "public/imagens/Logo-cinetag-branco 1.png",
+        "type": "image/png",
+        "size": "2560x2560"
+    }
+
+    ]
+
+
+}
